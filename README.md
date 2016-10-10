@@ -4,6 +4,8 @@ Gomel Front-End lab courses plan.
 
 ## __HTML__
 ### __Lesson 1__: What is Front-End
+- [Slides](http://slides.com/diodredd/introduction-to-front-end)
+
 ### __Lesson 2__: Tags, attributes and page building
 ## __CSS__
 ### __Lesson 3__: Basics. Selectors, Values and Units, Cascade, Box Model
