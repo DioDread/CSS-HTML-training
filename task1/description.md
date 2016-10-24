@@ -17,9 +17,9 @@ Links on 2nd and 3d page place at first page, anywhere you want, but not make it
 Use following markups to develop your pages:
 
 ### Design
-* [Page 1](https://raw.githubusercontent.com/DioDread/CSS-HTML-training/master/task1/design/Page%201.png){:target="_blank"}
-* [Page 2](https://raw.githubusercontent.com/DioDread/CSS-HTML-training/master/task1/design/Page%202.png){:target="_blank"}
-* [Page 3](https://raw.githubusercontent.com/DioDread/CSS-HTML-training/master/task1/design/Page%203.png){:target="_blank"}
+* <a href="https://raw.githubusercontent.com/DioDread/CSS-HTML-training/master/task1/design/Page%201.png" target="_blank">Page 1</a>
+* <a href="https://raw.githubusercontent.com/DioDread/CSS-HTML-training/master/task1/design/Page%202.png" target="_blank">Page 2</a>
+* <a href="https://raw.githubusercontent.com/DioDread/CSS-HTML-training/master/task1/design/Page%203.png" target="_blank">Page 3</a>
 
 ### Requirements.
   In most cases this more creativity then technical task, but this is not excuse for bad performance. I mean for those who come with ugly pages and will say what they are "back-end developers", I have special "back-end only treatment" hope you not one of them. Markup is tightly related to design. But feel of space and style is important in any cases, as soon as you provide poor design of your future business apps front-end for your customers you will get poor feedback on your overall work, because at 1st - nobody there will see your "super-cool back-end code", 2nd - all will see your ugly front-end =).
