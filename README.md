@@ -10,6 +10,7 @@ Gomel Front-End lab courses plan.
 ## __CSS__
 ### __Lesson 3__: Basics. Selectors, Values and Units, Cascade, Box Model
 ### __Lesson 4__: Styling Typography
+- [Task 1](https://github.com/DioDread/CSS-HTML-training/blob/master/task1/description.md)
 ### __Lesson 5__: Styling Elements
 ### __Lesson 6__: Layouts
 ### __Lesson 7__: Forms
