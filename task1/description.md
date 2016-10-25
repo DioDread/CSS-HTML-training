@@ -4,7 +4,8 @@ This task include typography, basic styling, box model, and layout creation rela
 
 ## Description
 
-Create simple web document. Which include text and images which is placed within 3 provided markups.
+Create simple web document. Which include text and images which is placed within 3 provided mockups.
+Mockups not a final design, you must not reproduce it completely. So just follow page structure from mockup and choose colors, backgrounds and fonts whatever you want. But not overdo.
 
 __1st page__, represents famous concept - 'Landing page' combine textual and graphic information. Available for scrolling. Contains few logically complete parts separate at blocks.
 
@@ -28,5 +29,10 @@ Use following markups to develop your pages:
     First impression always have most influence. Believe me =)
 
 ### Due date - not later than 11/1/2016
+
+### Usefull links 
+https://fonts.google.com/
+http://www.w3schools.com/
+http://www.colorcombos.com/
 
 Good luck!
