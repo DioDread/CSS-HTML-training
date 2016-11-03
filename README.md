@@ -13,7 +13,7 @@ Gomel Front-End lab courses plan.
 - [Task 1](https://github.com/DioDread/CSS-HTML-training/blob/master/task1/description.md)
 
 ### __Lesson 5__: Styling Elements
-### __Lesson 6__: Layouts
-### __Lesson 7__: Forms
+### __Lesson 6__: Forms
+### __Lesson 7__: Layouts
 ### __Lesson 8__: Pseudo-classes/-elements
 ### __Lesson 9__: Dynamic staff
