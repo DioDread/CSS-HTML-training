@@ -14,6 +14,6 @@ it displayed. They must share same design. Ideally all your task solutions must 
 - Fonts, paddings, color all must look how it show on mockup, in case if I find differences in your form and design, it will affect your mark.
 
 ## Due date
-All forms must be sent to me not less than 8/3/2016
+All forms must be sent to me not less than 11/8/2016
 
 Good luck!
