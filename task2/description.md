@@ -5,6 +5,10 @@ and skills.
 All what you need is to implement registration page as it show at design picture. All elements must look and feel same as
 it displayed. They must share same design. Ideally all your task solutions must look the same. Use provided header background photo, all in tasks _design_ folder.
 
+## Design
+https://raw.githubusercontent.com/DioDread/CSS-HTML-training/master/task2/design/registration-2.png
+https://raw.githubusercontent.com/DioDread/CSS-HTML-training/master/task2/design/header-bg.jpg
+
 ## Requirements
 - Using of CSS frameworks and libs prohibited, and now if I will found one, that will lead to task automatic fail
 (didn't complain than, and remove all your normalizers please).
