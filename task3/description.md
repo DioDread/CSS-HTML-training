@@ -8,7 +8,7 @@ One main page, which you need to create with existing mockup, and few small page
 This pages is a part of e-Shop application which we will implement as your graduation task, so if you need inspiration you can find many templates or existing shops on the Internet.
 
 ## Pages
-1. Main page, create it from mockup which can be found here(take your variant this is __IMPORTANT__): [Variant \#1](#), [Variant \#2](#), [Variant \#3](#).
+1. Main page, create it from mockup which can be found here(take your variant this is __IMPORTANT__): [Variant \#1](https://raw.githubusercontent.com/DioDread/CSS-HTML-training/master/task3/design/task3-mockup1.png), [Variant \#2](https://raw.githubusercontent.com/DioDread/CSS-HTML-training/master/task3/design/task3-mockup2.jpg), [Variant \#3](https://raw.githubusercontent.com/DioDread/CSS-HTML-training/master/task3/design/task3-mockup3.jpg).
 2. Login page, simple login form with two inputs(but who will knew which?) and one checkbox (Remember Me), and one button - Login. No header or footer allowed, this page will be open in popup, after user clicks on Login button, which you need to add to main page layout somehow ;)
 3. Registration page, looks pretty similar to your second task (no copy please!), but no need to add all set of controls, because this will be clarified as soon as you will get clear requirements about __User__ entity from your Java trainers. So limit it with _Last Name, First Name, Address, Email Password, Confirm Password and Tel_, but in more logical order. Still No headers and footers!
 4. User profile page. Page which is used to display user data, and Photo if loaded, in case if not loaded - show some nice placeholder. To be honest, all pages will be embed in main page, so there is no needs in header and footer except 1st one. And again, fields must be displayed only for demo purposes, which fields to show exactly, will be described later.
@@ -47,6 +47,6 @@ __Variant 3__
 - Yury Bialiauski
 
 ## Due date
-All pages must be sent __not later than 11/24/2016__
+All pages must be sent __not later than 11/25/2016__
 
 **Good Luck!**
