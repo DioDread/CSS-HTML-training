@@ -46,7 +46,10 @@ __Variant 3__
 - Yauheni Bialiauski
 - Yury Bialiauski
 
+## Last Updates
+__11/17/2016__: Adaptive design for main page is mandatory. Create it with media queries for following breakpoints: 480px, 768px, 1024px. Design for this resolutions you must to create by yourself. Pictures from markups, you can replace for you choice, anyway they might be replaced after you get your future app requirements. You free to use for Font Awesome and google fonts, but not for any JS or CSS frameworks (all is same as before)! In case you can developr some page look and feel elements as it displayed on mockup, find something looking similar within FA or in the Internet. You no need to implement all goods at page one row + 1 is more than enough. Page will be fiiled with data from server.
+
 ## Due date
-All pages must be sent __not later than 11/25/2016__
+All pages must be sent __not later than 11/28/2016__
 
 **Good Luck!**
